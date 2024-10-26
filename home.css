@@ -1,0 +1,17 @@
+body{
+    
+
+}
+header{
+    background: linear-gradient(135deg, white, blue);
+   text-align: center;
+   margin: auto;
+    padding: 20px;
+
+   
+}
+.sports{
+    text-align: center;
+    margin: auto;
+     padding: 20px;
+}
