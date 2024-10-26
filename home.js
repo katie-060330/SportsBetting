@@ -58,9 +58,25 @@ const setLeague = (selectedOption) =>{
         }
 
     }
+    showGames(games);
     console.log(games);
 
 }
+
+const showGames = (games) =>{
+    games.forEach(game =>{
+        // console.log(game.bookmakers);
+       game.bookmakers.forEach(bookmaker => {
+            // console.log(bookmaker.markets);
+            bookmaker.markets.forEach(market =>{
+                // console.log(market);
+                console.log(market.outcomes);
+            })
+       })
+    })
+
+}
+
 
 
 retriveData().catch(error => console.error(error));
