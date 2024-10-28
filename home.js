@@ -1,31 +1,37 @@
-let apiURL = "https://api.the-odds-api.com/v4/sports/upcoming/odds/?regions=us&markets=h2h&oddsFormat=american&apiKey=d1954e19d0c4e0d00515d9e4290548df"
+let apiURL = "https://api.the-odds-api.com/v4/sports/upcoming/odds/?regions=us&markets=h2h&oddsFormat=american&apiKey=b9155a74e860183ecff756fd806ba5da"
 const sportList = document.querySelector(".Sports_tonight")
 const nonDoup = document.getElementById("nonDoup") 
 const leage = document.getElementById("leaugeName")
 const stats = document.getElementById("stats")
 let data; 
 
-async function retriveData(){
-    
-const response = await fetch(apiURL); 
-    if(!response.ok){
-        throw new Error("NA");
-    }
-     data = await response.json();
-    console.log(data);
+function retriveData(){
+fetch('data.json')
+  .then(response => response.json())
+  .then(data => {
+    // console.log(data);
+    populateDate(data);
+    // You can now use the JSON data
+  })
+  .catch(error => console.error('Error fetching JSON:', error));
 
-    //?storing the non doups in a set 
+}
+
+//!retriving data locally 
+function populateDate(data){
+     //?storing the non doups in a set 
     let list = new Set();
-
-    //? adding the leages that are on tonigth into a list
-    for(let i = 0; i < data.length; i++){
-        if(!(list.has(data[i].sport_key))){
-            list.add(data[i].sport_key)
-        }
-
+    let i = 0; 
+    console.log(data);
+    while(data){
+        console.log('hello');
+        // if(!(list.has(data[i].sport_key))){
+        //     list.add(data[i].sport_key)
+        // }
+        i++; 
     }
+console.log(list);
     populateSelectMenu(list);
-    
 
 }
 
@@ -79,5 +85,33 @@ const showGames = (games) =>{
 
 
 
-retriveData().catch(error => console.error(error));
+retriveData()
+// .catch(error => console.error(error));
 
+
+
+
+//!For fetching the data live with the api, but i dont want to run out of my calls for the free trial 
+// async function retriveData(){
+    
+// const response = await fetch('./data.json'); 
+//     if(!response.ok){
+//         throw new Error("NA");
+//     }
+//      data = await response.json();
+//     console.log(data);
+
+    //?storing the non doups in a set 
+    // let list = new Set();
+
+    // //? adding the leages that are on tonigth into a list
+    // for(let i = 0; i < data.length; i++){
+    //     if(!(list.has(data[i].sport_key))){
+    //         list.add(data[i].sport_key)
+    //     }
+
+    // }
+    // populateSelectMenu(list);
+    
+
+// }

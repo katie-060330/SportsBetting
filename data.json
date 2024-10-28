@@ -1,0 +1,2530 @@
+[
+  {
+    "id": "25301403c04a968d785b2cc32087fb0d",
+    "sport_key": "tennis_atp_paris_masters",
+    "sport_title": "ATP Paris Masters",
+    "commence_time": "2024-10-28T18:57:00Z",
+    "home_team": "Nicolas Jarry",
+    "away_team": "Lorenzo Sonego",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-10-28T20:27:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:47Z",
+            "outcomes": [
+              {
+                "name": "Lorenzo Sonego",
+                "price": 700
+              },
+              {
+                "name": "Nicolas Jarry",
+                "price": -1200
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-10-28T20:28:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:23Z",
+            "outcomes": [
+              {
+                "name": "Lorenzo Sonego",
+                "price": 950
+              },
+              {
+                "name": "Nicolas Jarry",
+                "price": -3000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-10-28T20:28:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:23Z",
+            "outcomes": [
+              {
+                "name": "Lorenzo Sonego",
+                "price": 850
+              },
+              {
+                "name": "Nicolas Jarry",
+                "price": -1400
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-10-28T20:27:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:47Z",
+            "outcomes": [
+              {
+                "name": "Lorenzo Sonego",
+                "price": 950
+              },
+              {
+                "name": "Nicolas Jarry",
+                "price": -2500
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-10-28T20:27:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:53Z",
+            "outcomes": [
+              {
+                "name": "Lorenzo Sonego",
+                "price": 1100
+              },
+              {
+                "name": "Nicolas Jarry",
+                "price": -2400
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2c5bef5ef5826e0f6f1339ab2b69e846",
+    "sport_key": "tennis_atp_paris_masters",
+    "sport_title": "ATP Paris Masters",
+    "commence_time": "2024-10-28T19:29:00Z",
+    "home_team": "Nuno Borges",
+    "away_team": "Alejandro Tabilo",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-10-28T20:27:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:47Z",
+            "outcomes": [
+              {
+                "name": "Alejandro Tabilo",
+                "price": 260
+              },
+              {
+                "name": "Nuno Borges",
+                "price": -325
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-10-28T20:28:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:23Z",
+            "outcomes": [
+              {
+                "name": "Alejandro Tabilo",
+                "price": 250
+              },
+              {
+                "name": "Nuno Borges",
+                "price": -350
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-10-28T20:28:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:23Z",
+            "outcomes": [
+              {
+                "name": "Alejandro Tabilo",
+                "price": 225
+              },
+              {
+                "name": "Nuno Borges",
+                "price": -300
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-10-28T20:27:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:47Z",
+            "outcomes": [
+              {
+                "name": "Alejandro Tabilo",
+                "price": 285
+              },
+              {
+                "name": "Nuno Borges",
+                "price": -435
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-10-28T20:27:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:53Z",
+            "outcomes": [
+              {
+                "name": "Alejandro Tabilo",
+                "price": 250
+              },
+              {
+                "name": "Nuno Borges",
+                "price": -320
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ee0493d9e86894292f8c4c91e33615a9",
+    "sport_key": "soccer_spain_segunda_division",
+    "sport_title": "La Liga 2 - Spain",
+    "commence_time": "2024-10-28T19:30:00Z",
+    "home_team": "Racing de Ferrol",
+    "away_team": "Tenerife",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-10-28T20:27:39Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:39Z",
+            "outcomes": [
+              {
+                "name": "Racing de Ferrol",
+                "price": 185
+              },
+              {
+                "name": "Tenerife",
+                "price": 320
+              },
+              {
+                "name": "Draw",
+                "price": -105
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-10-28T20:27:39Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:39Z",
+            "outcomes": [
+              {
+                "name": "Racing de Ferrol",
+                "price": 174
+              },
+              {
+                "name": "Tenerife",
+                "price": 300
+              },
+              {
+                "name": "Draw",
+                "price": 110
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-10-28T20:27:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:03Z",
+            "outcomes": [
+              {
+                "name": "Racing de Ferrol",
+                "price": 180
+              },
+              {
+                "name": "Tenerife",
+                "price": 330
+              },
+              {
+                "name": "Draw",
+                "price": 105
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-10-28T20:28:14Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:14Z",
+            "outcomes": [
+              {
+                "name": "Racing de Ferrol",
+                "price": 170
+              },
+              {
+                "name": "Tenerife",
+                "price": 300
+              },
+              {
+                "name": "Draw",
+                "price": 100
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d46dc90e41b34d06e753592668d37722",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-10-28T20:00:00Z",
+    "home_team": "Blackpool",
+    "away_team": "Wigan Athletic",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-10-28T20:27:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:54Z",
+            "outcomes": [
+              {
+                "name": "Blackpool",
+                "price": 480
+              },
+              {
+                "name": "Wigan Athletic",
+                "price": -170
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-10-28T20:28:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:30Z",
+            "outcomes": [
+              {
+                "name": "Blackpool",
+                "price": 410
+              },
+              {
+                "name": "Wigan Athletic",
+                "price": -152
+              },
+              {
+                "name": "Draw",
+                "price": 255
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-10-28T20:28:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:30Z",
+            "outcomes": [
+              {
+                "name": "Blackpool",
+                "price": 425
+              },
+              {
+                "name": "Wigan Athletic",
+                "price": -185
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-10-28T20:24:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:24:47Z",
+            "outcomes": [
+              {
+                "name": "Blackpool",
+                "price": 500
+              },
+              {
+                "name": "Wigan Athletic",
+                "price": -175
+              },
+              {
+                "name": "Draw",
+                "price": 275
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4315b650a242697241db922d924be7a0",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2024-10-28T20:02:00Z",
+    "home_team": "Mallorca",
+    "away_team": "Athletic Bilbao",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-10-28T20:28:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:04Z",
+            "outcomes": [
+              {
+                "name": "Athletic Bilbao",
+                "price": -140
+              },
+              {
+                "name": "Mallorca",
+                "price": 500
+              },
+              {
+                "name": "Draw",
+                "price": 210
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-10-28T20:26:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:26:15Z",
+            "outcomes": [
+              {
+                "name": "Athletic Bilbao",
+                "price": 205
+              },
+              {
+                "name": "Mallorca",
+                "price": 135
+              },
+              {
+                "name": "Draw",
+                "price": 185
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-10-28T20:27:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:30Z",
+            "outcomes": [
+              {
+                "name": "Athletic Bilbao",
+                "price": 215
+              },
+              {
+                "name": "Mallorca",
+                "price": 156
+              },
+              {
+                "name": "Draw",
+                "price": 180
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-10-28T20:27:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:30Z",
+            "outcomes": [
+              {
+                "name": "Athletic Bilbao",
+                "price": 105
+              },
+              {
+                "name": "Mallorca",
+                "price": 310
+              },
+              {
+                "name": "Draw",
+                "price": 180
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-10-28T20:27:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:29Z",
+            "outcomes": [
+              {
+                "name": "Athletic Bilbao",
+                "price": -120
+              },
+              {
+                "name": "Mallorca",
+                "price": 400
+              },
+              {
+                "name": "Draw",
+                "price": 205
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "70b19ea4294eda8ddab0cd853b31c44b",
+    "sport_key": "soccer_portugal_primeira_liga",
+    "sport_title": "Primeira Liga - Portugal",
+    "commence_time": "2024-10-28T20:15:00Z",
+    "home_team": "AVS Futebol SAD",
+    "away_team": "FC Porto",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-10-28T20:27:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:52Z",
+            "outcomes": [
+              {
+                "name": "AVS Futebol SAD",
+                "price": 900
+              },
+              {
+                "name": "FC Porto",
+                "price": -340
+              },
+              {
+                "name": "Draw",
+                "price": 425
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-10-28T20:27:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:16Z",
+            "outcomes": [
+              {
+                "name": "AVS Futebol SAD",
+                "price": 950
+              },
+              {
+                "name": "FC Porto",
+                "price": -370
+              },
+              {
+                "name": "Draw",
+                "price": 380
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-10-28T20:27:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:52Z",
+            "outcomes": [
+              {
+                "name": "AVS Futebol SAD",
+                "price": 800
+              },
+              {
+                "name": "FC Porto",
+                "price": -305
+              },
+              {
+                "name": "Draw",
+                "price": 370
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-10-28T20:28:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:27Z",
+            "outcomes": [
+              {
+                "name": "AVS Futebol SAD",
+                "price": 725
+              },
+              {
+                "name": "FC Porto",
+                "price": -300
+              },
+              {
+                "name": "Draw",
+                "price": 333
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-10-28T20:14:42Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:14:42Z",
+            "outcomes": [
+              {
+                "name": "AVS Futebol SAD",
+                "price": 700
+              },
+              {
+                "name": "FC Porto",
+                "price": -321
+              },
+              {
+                "name": "Draw",
+                "price": 400
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-10-28T20:15:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:15:17Z",
+            "outcomes": [
+              {
+                "name": "AVS Futebol SAD",
+                "price": 700
+              },
+              {
+                "name": "FC Porto",
+                "price": -320
+              },
+              {
+                "name": "Draw",
+                "price": 400
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-10-28T20:14:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:14:06Z",
+            "outcomes": [
+              {
+                "name": "AVS Futebol SAD",
+                "price": 825
+              },
+              {
+                "name": "FC Porto",
+                "price": -325
+              },
+              {
+                "name": "Draw",
+                "price": 415
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d0535b88ad7d5e793daeeb88c444ac60",
+    "sport_key": "tennis_atp_paris_masters",
+    "sport_title": "ATP Paris Masters",
+    "commence_time": "2024-10-28T20:24:00Z",
+    "home_team": "Adrian Mannarino",
+    "away_team": "Tommy Paul",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-10-28T20:27:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:12Z",
+            "outcomes": [
+              {
+                "name": "Adrian Mannarino",
+                "price": 599
+              },
+              {
+                "name": "Tommy Paul",
+                "price": -859
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-10-28T20:27:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:47Z",
+            "outcomes": [
+              {
+                "name": "Adrian Mannarino",
+                "price": 500
+              },
+              {
+                "name": "Tommy Paul",
+                "price": -750
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-10-28T20:28:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:23Z",
+            "outcomes": [
+              {
+                "name": "Adrian Mannarino",
+                "price": 450
+              },
+              {
+                "name": "Tommy Paul",
+                "price": -800
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-10-28T20:28:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:23Z",
+            "outcomes": [
+              {
+                "name": "Adrian Mannarino",
+                "price": 550
+              },
+              {
+                "name": "Tommy Paul",
+                "price": -900
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-10-28T20:27:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:47Z",
+            "outcomes": [
+              {
+                "name": "Adrian Mannarino",
+                "price": 460
+              },
+              {
+                "name": "Tommy Paul",
+                "price": -770
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-10-28T20:27:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:53Z",
+            "outcomes": [
+              {
+                "name": "Adrian Mannarino",
+                "price": 580
+              },
+              {
+                "name": "Tommy Paul",
+                "price": -880
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-10-28T20:26:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:26:36Z",
+            "outcomes": [
+              {
+                "name": "Adrian Mannarino",
+                "price": 599
+              },
+              {
+                "name": "Tommy Paul",
+                "price": -859
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d463dd30d204f955852ae3822bfbc9f9",
+    "sport_key": "soccer_brazil_serie_b",
+    "sport_title": "Brazil Série B",
+    "commence_time": "2024-10-28T21:00:00Z",
+    "home_team": "Coritiba",
+    "away_team": "Clube de Regatas Brasil",
+    "bookmakers": [
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-10-28T20:28:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:18Z",
+            "outcomes": [
+              {
+                "name": "Clube de Regatas Brasil",
+                "price": 350
+              },
+              {
+                "name": "Coritiba",
+                "price": -114
+              },
+              {
+                "name": "Draw",
+                "price": 205
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-10-28T20:28:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:18Z",
+            "outcomes": [
+              {
+                "name": "Clube de Regatas Brasil",
+                "price": 340
+              },
+              {
+                "name": "Coritiba",
+                "price": -115
+              },
+              {
+                "name": "Draw",
+                "price": 210
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-10-28T20:27:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:08Z",
+            "outcomes": [
+              {
+                "name": "Clube de Regatas Brasil",
+                "price": 410
+              },
+              {
+                "name": "Coritiba",
+                "price": -130
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-10-28T20:28:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:18Z",
+            "outcomes": [
+              {
+                "name": "Clube de Regatas Brasil",
+                "price": 310
+              },
+              {
+                "name": "Coritiba",
+                "price": -120
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-10-28T20:27:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:43Z",
+            "outcomes": [
+              {
+                "name": "Clube de Regatas Brasil",
+                "price": 400
+              },
+              {
+                "name": "Coritiba",
+                "price": -125
+              },
+              {
+                "name": "Draw",
+                "price": 230
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-10-28T20:28:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:18Z",
+            "outcomes": [
+              {
+                "name": "Clube de Regatas Brasil",
+                "price": 270
+              },
+              {
+                "name": "Coritiba",
+                "price": -113
+              },
+              {
+                "name": "Draw",
+                "price": 225
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-10-28T20:27:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:43Z",
+            "outcomes": [
+              {
+                "name": "Clube de Regatas Brasil",
+                "price": 270
+              },
+              {
+                "name": "Coritiba",
+                "price": -113
+              },
+              {
+                "name": "Draw",
+                "price": 225
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3dc9abd0ccc84ebbe028dfe9de6eb86f",
+    "sport_key": "soccer_brazil_campeonato",
+    "sport_title": "Brazil Série A",
+    "commence_time": "2024-10-28T22:00:00Z",
+    "home_team": "Cuiabá",
+    "away_team": "Corinthians",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-10-28T20:27:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:28Z",
+            "outcomes": [
+              {
+                "name": "Corinthians",
+                "price": 130
+              },
+              {
+                "name": "Cuiabá",
+                "price": 245
+              },
+              {
+                "name": "Draw",
+                "price": 210
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-10-28T20:26:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:26:52Z",
+            "outcomes": [
+              {
+                "name": "Corinthians",
+                "price": 125
+              },
+              {
+                "name": "Cuiabá",
+                "price": 250
+              },
+              {
+                "name": "Draw",
+                "price": 195
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-10-28T20:28:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:04Z",
+            "outcomes": [
+              {
+                "name": "Corinthians",
+                "price": 130
+              },
+              {
+                "name": "Cuiabá",
+                "price": 240
+              },
+              {
+                "name": "Draw",
+                "price": 200
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-10-28T20:27:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:28Z",
+            "outcomes": [
+              {
+                "name": "Corinthians",
+                "price": 134
+              },
+              {
+                "name": "Cuiabá",
+                "price": 252
+              },
+              {
+                "name": "Draw",
+                "price": 195
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-10-28T20:28:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:03Z",
+            "outcomes": [
+              {
+                "name": "Corinthians",
+                "price": 134
+              },
+              {
+                "name": "Cuiabá",
+                "price": 252
+              },
+              {
+                "name": "Draw",
+                "price": 195
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-10-28T20:28:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:03Z",
+            "outcomes": [
+              {
+                "name": "Corinthians",
+                "price": 130
+              },
+              {
+                "name": "Cuiabá",
+                "price": 250
+              },
+              {
+                "name": "Draw",
+                "price": 195
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-10-28T20:27:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:28Z",
+            "outcomes": [
+              {
+                "name": "Corinthians",
+                "price": 132
+              },
+              {
+                "name": "Cuiabá",
+                "price": 230
+              },
+              {
+                "name": "Draw",
+                "price": 215
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-10-28T20:28:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:04Z",
+            "outcomes": [
+              {
+                "name": "Corinthians",
+                "price": 130
+              },
+              {
+                "name": "Cuiabá",
+                "price": 245
+              },
+              {
+                "name": "Draw",
+                "price": 210
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c20656651d018bea59ab3e27fed25e13",
+    "sport_key": "soccer_argentina_primera_division",
+    "sport_title": "Primera División - Argentina",
+    "commence_time": "2024-10-28T22:00:00Z",
+    "home_team": "Gimnasia La Plata",
+    "away_team": "Union Santa Fe",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-10-28T20:26:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:26:23Z",
+            "outcomes": [
+              {
+                "name": "Gimnasia La Plata",
+                "price": 135
+              },
+              {
+                "name": "Union Santa Fe",
+                "price": 240
+              },
+              {
+                "name": "Draw",
+                "price": 170
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-10-28T20:27:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:35Z",
+            "outcomes": [
+              {
+                "name": "Gimnasia La Plata",
+                "price": 145
+              },
+              {
+                "name": "Union Santa Fe",
+                "price": 240
+              },
+              {
+                "name": "Draw",
+                "price": 170
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-10-28T20:27:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:35Z",
+            "outcomes": [
+              {
+                "name": "Gimnasia La Plata",
+                "price": 145
+              },
+              {
+                "name": "Union Santa Fe",
+                "price": 235
+              },
+              {
+                "name": "Draw",
+                "price": 188
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-10-28T20:28:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:08Z",
+            "outcomes": [
+              {
+                "name": "Gimnasia La Plata",
+                "price": 140
+              },
+              {
+                "name": "Union Santa Fe",
+                "price": 230
+              },
+              {
+                "name": "Draw",
+                "price": 180
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-10-28T20:27:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:35Z",
+            "outcomes": [
+              {
+                "name": "Gimnasia La Plata",
+                "price": 145
+              },
+              {
+                "name": "Union Santa Fe",
+                "price": 245
+              },
+              {
+                "name": "Draw",
+                "price": 180
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-10-28T20:27:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:35Z",
+            "outcomes": [
+              {
+                "name": "Gimnasia La Plata",
+                "price": 149
+              },
+              {
+                "name": "Union Santa Fe",
+                "price": 240
+              },
+              {
+                "name": "Draw",
+                "price": 183
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-10-28T20:27:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:35Z",
+            "outcomes": [
+              {
+                "name": "Gimnasia La Plata",
+                "price": 149
+              },
+              {
+                "name": "Union Santa Fe",
+                "price": 240
+              },
+              {
+                "name": "Draw",
+                "price": 183
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "baf9cb997d7341d8e6fe6aa0917c33cd",
+    "sport_key": "soccer_brazil_serie_b",
+    "sport_title": "Brazil Série B",
+    "commence_time": "2024-10-28T22:00:00Z",
+    "home_team": "Ituano",
+    "away_team": "Santos",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-10-28T20:27:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:08Z",
+            "outcomes": [
+              {
+                "name": "Ituano",
+                "price": 350
+              },
+              {
+                "name": "Santos",
+                "price": -120
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-10-28T20:28:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:18Z",
+            "outcomes": [
+              {
+                "name": "Ituano",
+                "price": 310
+              },
+              {
+                "name": "Santos",
+                "price": -115
+              },
+              {
+                "name": "Draw",
+                "price": 210
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-10-28T20:27:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:43Z",
+            "outcomes": [
+              {
+                "name": "Ituano",
+                "price": 350
+              },
+              {
+                "name": "Santos",
+                "price": -115
+              },
+              {
+                "name": "Draw",
+                "price": 230
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-10-28T20:28:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:18Z",
+            "outcomes": [
+              {
+                "name": "Ituano",
+                "price": 300
+              },
+              {
+                "name": "Santos",
+                "price": -114
+              },
+              {
+                "name": "Draw",
+                "price": 230
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-10-28T20:28:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:18Z",
+            "outcomes": [
+              {
+                "name": "Ituano",
+                "price": 310
+              },
+              {
+                "name": "Santos",
+                "price": -110
+              },
+              {
+                "name": "Draw",
+                "price": 215
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-10-28T20:28:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:18Z",
+            "outcomes": [
+              {
+                "name": "Ituano",
+                "price": 310
+              },
+              {
+                "name": "Santos",
+                "price": -110
+              },
+              {
+                "name": "Draw",
+                "price": 215
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-10-28T20:28:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:18Z",
+            "outcomes": [
+              {
+                "name": "Ituano",
+                "price": 275
+              },
+              {
+                "name": "Santos",
+                "price": -111
+              },
+              {
+                "name": "Draw",
+                "price": 215
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-10-28T20:27:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:43Z",
+            "outcomes": [
+              {
+                "name": "Ituano",
+                "price": 275
+              },
+              {
+                "name": "Santos",
+                "price": -111
+              },
+              {
+                "name": "Draw",
+                "price": 215
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5406bdb3646a43ab2a3496b6f426ef63",
+    "sport_key": "soccer_usa_mls",
+    "sport_title": "MLS",
+    "commence_time": "2024-10-28T22:45:00Z",
+    "home_team": "FC Cincinnati",
+    "away_team": "New York City FC",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-10-28T20:27:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:27Z",
+            "outcomes": [
+              {
+                "name": "FC Cincinnati",
+                "price": -105
+              },
+              {
+                "name": "New York City FC",
+                "price": 250
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-10-28T20:28:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:00Z",
+            "outcomes": [
+              {
+                "name": "FC Cincinnati",
+                "price": -105
+              },
+              {
+                "name": "New York City FC",
+                "price": 250
+              },
+              {
+                "name": "Draw",
+                "price": 295
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-10-28T20:28:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:38Z",
+            "outcomes": [
+              {
+                "name": "FC Cincinnati",
+                "price": 100
+              },
+              {
+                "name": "New York City FC",
+                "price": 240
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-10-28T20:25:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:25:32Z",
+            "outcomes": [
+              {
+                "name": "FC Cincinnati",
+                "price": -105
+              },
+              {
+                "name": "New York City FC",
+                "price": 246
+              },
+              {
+                "name": "Draw",
+                "price": 285
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-10-28T20:28:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:00Z",
+            "outcomes": [
+              {
+                "name": "FC Cincinnati",
+                "price": -105
+              },
+              {
+                "name": "New York City FC",
+                "price": 240
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-10-28T20:28:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:00Z",
+            "outcomes": [
+              {
+                "name": "FC Cincinnati",
+                "price": -121
+              },
+              {
+                "name": "New York City FC",
+                "price": 280
+              },
+              {
+                "name": "Draw",
+                "price": 295
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-10-28T20:28:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:38Z",
+            "outcomes": [
+              {
+                "name": "FC Cincinnati",
+                "price": 102
+              },
+              {
+                "name": "New York City FC",
+                "price": 260
+              },
+              {
+                "name": "Draw",
+                "price": 282
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-10-28T20:28:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:37Z",
+            "outcomes": [
+              {
+                "name": "FC Cincinnati",
+                "price": 102
+              },
+              {
+                "name": "New York City FC",
+                "price": 260
+              },
+              {
+                "name": "Draw",
+                "price": 282
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-10-28T20:28:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:00Z",
+            "outcomes": [
+              {
+                "name": "FC Cincinnati",
+                "price": -105
+              },
+              {
+                "name": "New York City FC",
+                "price": 250
+              },
+              {
+                "name": "Draw",
+                "price": 285
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ed71b37f27daa755c7dd8623fbe5c54e",
+    "sport_key": "icehockey_nhl",
+    "sport_title": "NHL",
+    "commence_time": "2024-10-28T23:00:00Z",
+    "home_team": "Buffalo Sabres",
+    "away_team": "Florida Panthers",
+    "bookmakers": [
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-10-28T20:28:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:36Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Sabres",
+                "price": 120
+              },
+              {
+                "name": "Florida Panthers",
+                "price": -148
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-10-28T20:28:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:37Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Sabres",
+                "price": 125
+              },
+              {
+                "name": "Florida Panthers",
+                "price": -150
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-10-28T20:28:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:36Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Sabres",
+                "price": 124
+              },
+              {
+                "name": "Florida Panthers",
+                "price": -148
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-10-28T20:28:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:36Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Sabres",
+                "price": 125
+              },
+              {
+                "name": "Florida Panthers",
+                "price": -150
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-10-28T20:27:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:58Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Sabres",
+                "price": 135
+              },
+              {
+                "name": "Florida Panthers",
+                "price": -160
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-10-28T20:28:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:36Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Sabres",
+                "price": 127
+              },
+              {
+                "name": "Florida Panthers",
+                "price": -142
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-10-28T20:28:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:36Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Sabres",
+                "price": 127
+              },
+              {
+                "name": "Florida Panthers",
+                "price": -142
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-10-28T20:27:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:58Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Sabres",
+                "price": 125
+              },
+              {
+                "name": "Florida Panthers",
+                "price": -145
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0d1eb136acea923fb456fd274bb6e1f5",
+    "sport_key": "icehockey_nhl",
+    "sport_title": "NHL",
+    "commence_time": "2024-10-28T23:00:00Z",
+    "home_team": "Columbus Blue Jackets",
+    "away_team": "Edmonton Oilers",
+    "bookmakers": [
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-10-28T20:28:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:36Z",
+            "outcomes": [
+              {
+                "name": "Columbus Blue Jackets",
+                "price": 190
+              },
+              {
+                "name": "Edmonton Oilers",
+                "price": -240
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-10-28T20:28:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:37Z",
+            "outcomes": [
+              {
+                "name": "Columbus Blue Jackets",
+                "price": 205
+              },
+              {
+                "name": "Edmonton Oilers",
+                "price": -255
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-10-28T20:28:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:36Z",
+            "outcomes": [
+              {
+                "name": "Columbus Blue Jackets",
+                "price": 200
+              },
+              {
+                "name": "Edmonton Oilers",
+                "price": -245
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-10-28T20:28:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:36Z",
+            "outcomes": [
+              {
+                "name": "Columbus Blue Jackets",
+                "price": 200
+              },
+              {
+                "name": "Edmonton Oilers",
+                "price": -250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-10-28T20:27:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:58Z",
+            "outcomes": [
+              {
+                "name": "Columbus Blue Jackets",
+                "price": 205
+              },
+              {
+                "name": "Edmonton Oilers",
+                "price": -245
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-10-28T20:28:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:36Z",
+            "outcomes": [
+              {
+                "name": "Columbus Blue Jackets",
+                "price": 206
+              },
+              {
+                "name": "Edmonton Oilers",
+                "price": -233
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-10-28T20:28:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:36Z",
+            "outcomes": [
+              {
+                "name": "Columbus Blue Jackets",
+                "price": 206
+              },
+              {
+                "name": "Edmonton Oilers",
+                "price": -233
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-10-28T20:27:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:58Z",
+            "outcomes": [
+              {
+                "name": "Columbus Blue Jackets",
+                "price": 200
+              },
+              {
+                "name": "Edmonton Oilers",
+                "price": -235
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "afbdf758c85a15cc869323ec93480b5d",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-10-28T23:10:00Z",
+    "home_team": "Orlando Magic",
+    "away_team": "Indiana Pacers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-10-28T20:27:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:48Z",
+            "outcomes": [
+              {
+                "name": "Indiana Pacers",
+                "price": 180
+              },
+              {
+                "name": "Orlando Magic",
+                "price": -218
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-10-28T20:27:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:13Z",
+            "outcomes": [
+              {
+                "name": "Indiana Pacers",
+                "price": 175
+              },
+              {
+                "name": "Orlando Magic",
+                "price": -205
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-10-28T20:28:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:23Z",
+            "outcomes": [
+              {
+                "name": "Indiana Pacers",
+                "price": 175
+              },
+              {
+                "name": "Orlando Magic",
+                "price": -205
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-10-28T20:14:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:14:08Z",
+            "outcomes": [
+              {
+                "name": "Indiana Pacers",
+                "price": 185
+              },
+              {
+                "name": "Orlando Magic",
+                "price": -225
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-10-28T20:25:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:25:19Z",
+            "outcomes": [
+              {
+                "name": "Indiana Pacers",
+                "price": 180
+              },
+              {
+                "name": "Orlando Magic",
+                "price": -217
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-10-28T20:27:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:48Z",
+            "outcomes": [
+              {
+                "name": "Indiana Pacers",
+                "price": 180
+              },
+              {
+                "name": "Orlando Magic",
+                "price": -225
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-10-28T20:27:49Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:49Z",
+            "outcomes": [
+              {
+                "name": "Indiana Pacers",
+                "price": 168
+              },
+              {
+                "name": "Orlando Magic",
+                "price": -200
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-10-28T20:27:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:27:48Z",
+            "outcomes": [
+              {
+                "name": "Indiana Pacers",
+                "price": 185
+              },
+              {
+                "name": "Orlando Magic",
+                "price": -225
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-10-28T20:28:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:24Z",
+            "outcomes": [
+              {
+                "name": "Indiana Pacers",
+                "price": 180
+              },
+              {
+                "name": "Orlando Magic",
+                "price": -220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-10-28T20:28:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-10-28T20:28:23Z",
+            "outcomes": [
+              {
+                "name": "Indiana Pacers",
+                "price": 175
+              },
+              {
+                "name": "Orlando Magic",
+                "price": -210
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
